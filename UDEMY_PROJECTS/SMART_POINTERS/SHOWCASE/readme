@@ -1,0 +1,8 @@
+This directory holds a showcase of:
+- Unique Pointers
+- Shared Pointers
+- Collections of both Unique Pointers and Shared Pointers
+- Custom Deleters
+
+
+These are all accessible from the <memory> pkg/lib

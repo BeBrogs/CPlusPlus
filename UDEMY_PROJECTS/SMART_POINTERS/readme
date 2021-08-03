@@ -1,0 +1,35 @@
+The contents of the directories are as follows:
+
+- UNIQUE_POINTERS:
+	- Showcase of Unique Pointers, the multiple ways we can establish and initialize these, as well as 
+	  implementing a collection of Unique Pointers using vectors and the move operator.
+	- The ability to access member methods of a unique pointer vector pointing to a custom class using 
+	  a for loop.
+	- Also use of the .reset() method to nullify unique pointers.
+	- Use of the .get() to retrieve the address of our unique pointer. 
+
+
+- SHARED_POINTERS (4):
+        - Showcase of Shared Pointers, the multiple ways we can establish and initialize these, as well as
+          implementing a collection of Shared Pointers using vectors.
+        - The ability to access member methods of a smart pointer vector pointing to a custom class using 
+          a for loop.
+
+
+- SHARED_AND_UNIQUE_POINTERS (2/showcase.cpp):
+	- Showcase of Unique Pointers and Shared Pointers, as well as some explination
+	- Essentially a mix of both descriptions of UNIQUE_POINTERS & SHARED_POINTERS
+
+
+- WEAK_POINTERS (2/showcase.cpp):
+	- Light showcase of assigning a weak pointer to a previously established shared pointer
+
+
+- CUSTOM DELETERS:
+	- Showcase of Custom Deleters to act upon shared pointers
+
+
+- SHOWCASE:
+	- Showcase of all of the above
+	-Also a further implementation of OOP, especially Inheritance and Polymorphism w/ the use of Interface
+	 classes and pure virtual functions
